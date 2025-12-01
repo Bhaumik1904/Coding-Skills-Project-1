@@ -36,4 +36,4 @@ This project gives a practical understanding of how a queue works internally usi
 Developed By:
 Bhaumik Hinunia
 CSE – 2nd Year
-Section - C
+Section -C
