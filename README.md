@@ -1,11 +1,12 @@
 QUEUE SIMULATION – CIRCULAR QUEUE IN C++
-<br>TEAM MEMBERS
+
+<br>TEAM MEMBERS:</br>
 Bhaumik Hinunia - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Bhaumik1904)
 Zeeshaan Suhail Shaik - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Zeeshaan-23)
 Amith Ratna Marisa - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Amith-143)
 Manya Srivastava - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Manya349)
 Jayanti Yadav - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jayantiyadav04)
-</br>
+
 
 PPT LINK :- [Canva](https://www.canva.com/design/DAG6vOZQ4o0/q_5Z_GXU6esw08VXkNkzqg/view?utm_content=DAG6vOZQ4o0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1992b2b51)
 Overview:
