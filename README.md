@@ -8,7 +8,7 @@ Manya Srivastava - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?
 Jayanti Yadav - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jayantiyadav04)
 
 
-PPT LINK :- [Canva](https://www.canva.com/design/DAG6vOZQ4o0/q_5Z_GXU6esw08VXkNkzqg/view?utm_content=DAG6vOZQ4o0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1992b2b51)
+PPT LINK :- [Canva](https://www.canva.com/design/DAG6wcFoflI/OJ3Wr-G_2_W3i6MR8FWpCQ/view?utm_content=DAG6wcFoflI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcf8a07d935)
 Overview:
 This project simulates a ticket counter using a Circular Queue. Each customer receives a token number. New customers are added to the queue using enqueue and customers being served are removed using dequeue. After every operation, the updated state of the queue is displayed to help understand the internal working of a queue.
 
