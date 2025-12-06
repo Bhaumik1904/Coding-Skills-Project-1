@@ -1,5 +1,5 @@
 QUEUE SIMULATION – CIRCULAR QUEUE IN C++
-Team Details: 
+<br>Team Details:</br> 
 Bhaumik - 
 Amith - 
 Zeeshaan -
