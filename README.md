@@ -42,7 +42,4 @@ Space Complexity – O(n)
 Conclusion:
 This project gives a practical understanding of how a queue works internally using a circular array. It visualizes real queue behavior and helps beginners learn FIFO logic, pointer movement, and efficient circular memory usage.
 
-Developed By:
-Bhaumik Hinunia
-CSE – 2nd Year
-Section -C
+
