@@ -1,5 +1,9 @@
 QUEUE SIMULATION – CIRCULAR QUEUE IN C++
-
+<br>TEAM MEMBERS
+Bhaumik Hinunia 
+Zeeshaan Suhail Shaik - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Zeeshaan-23)
+Amith Ratna Marisa - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Zeeshaan-23)
+</br>
 Overview:
 This project simulates a ticket counter using a Circular Queue. Each customer receives a token number. New customers are added to the queue using enqueue and customers being served are removed using dequeue. After every operation, the updated state of the queue is displayed to help understand the internal working of a queue.
 
